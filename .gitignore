@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BowlingKata/bin/Debug/net6.0
+/BowlingKata/obj
+/BowlingKata_uTest/bin/Debug/net6.0
+/BowlingKata_uTest/obj
+/DeviceDriverKata/bin/Debug/net6.0
+/DeviceDriverKata/obj
+/DeviceDriverKata_uTest/bin/Debug/net6.0
+/DeviceDriverKata_uTest/obj
+/RefactoringKata/bin/Debug/net6.0
+/RefactoringKata/obj
+/RefactoringKata_uTest/bin/Debug/net6.0
+/RefactoringKata_uTest/obj
+/TDDKata.sln.DotSettings.user
